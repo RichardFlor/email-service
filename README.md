@@ -42,7 +42,7 @@ The API provides the following endpoints:
 
 **GET EMAIL**
 ```markdown
-POST /api/email/send - Send a e-mail from your sender to the destination
+POST /api/email - Send a e-mail from your sender to the destination
 ```
 
 **BODY**
