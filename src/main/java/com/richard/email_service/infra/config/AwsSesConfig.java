@@ -30,3 +30,4 @@ public class AwsSesConfig {
                 .build();
     }
 }
+//verificar erro na nas credenciais da aws '-'
